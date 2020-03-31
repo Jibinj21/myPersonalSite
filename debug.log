@@ -1,0 +1,2 @@
+[0328/140104.347:ERROR:crashpad_client_win.cc(505)] CreateProcess: The paging file is too small for this operation to complete. (0x5AF)
+[0328/140109.438:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
